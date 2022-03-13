@@ -114,6 +114,12 @@ textarea {
   margin: 5px;
 }
 
+.name,
+.email {
+  width: 370px;
+  margin-right: 20px;
+}
+
 form ::placeholder {
   color: white;
 }
