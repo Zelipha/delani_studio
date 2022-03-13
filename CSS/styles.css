@@ -31,6 +31,97 @@ body {
   margin-bottom: 30px;
 }
 
+.mouse {
+  animation: upDown 1.5s linear infinite alternate;
+}
+
+.about {
+  text-align: center;
+  margin-top: 5%;
+}
+
+.services {
+  background: url(../assets/backgrounds/s_image.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
+  height: 65vh;
+  text-align: center;
+  color: white;
+  margin-top: 5%;
+}
+
+.ourServices {
+  padding: 120px 0;
+}
+
+.what-we-do {
+  text-align: center;
+  margin-top: 5%;
+}
+
+.what-we-do h2 {
+  padding-bottom: 25px;
+}
+
+.portfolio {
+  text-align: center;
+  margin-top: 5%;
+}
+
+.portfolio h2 {
+  padding-bottom: 25px;
+}
+
+.wrapper {
+  display: flex;
+  flex-wrap: wrap;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+}
+.works {
+  padding: 0 20px 20px 0;
+}
+
+.works img {
+  height: 200px;
+}
+
+.contact {
+  background: url(../assets/backgrounds/c_image.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
+  height: 90vh;
+  margin-top: 5%;
+  background-position: center center;
+}
+
+.contact h2,
+.contact form {
+  text-align: center;
+}
+
+.contact h2 {
+  padding: 70px 0 20px 0;
+  color: white;
+}
+
+input,
+textarea {
+  color: white;
+  background: transparent;
+  border: 1px solid white;
+  margin: 5px;
+}
+
+form ::placeholder {
+  color: white;
+}
+
+.submit {
+  width: 200px;
+}
+
 .footer {
   height: 100px;
   width: 100%;
