@@ -59,6 +59,10 @@ body {
   margin-top: 5%;
 }
 
+.what-we-do img {
+  cursor: pointer;
+}
+
 .what-we-do h2 {
   padding-bottom: 25px;
 }
@@ -83,14 +87,42 @@ body {
   flex-wrap: wrap;
   flex-direction: row;
   justify-content: center;
+}
+
+.works {
+  display: flex;
+  flex-wrap: wrap;
+  flex-direction: row;
+  justify-content: center;
   align-items: center;
 }
 .works {
   padding: 0 20px 20px 0;
+  position: relative;
 }
 
 .works img {
   height: 200px;
+}
+.img_title1,
+.img_title2,
+.img_title3,
+.img_title4,
+.img_title5,
+.img_title6,
+.img_title7,
+.img_title8 {
+  visibility: hidden;
+  border: 5px solid rgb(12, 12, 12);
+  height: 170px;
+  width: 200px;
+  position: absolute;
+  font-weight: bolder;
+  color: rgb(250, 243, 243);
+  text-align: center;
+  float: left;
+  padding: 65px 0;
+  cursor: pointer;
 }
 
 .contact {
