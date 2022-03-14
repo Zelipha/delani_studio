@@ -31,7 +31,7 @@ No known bugs
 - BOOTSTRAP
 - JQUERY
 
-##### Link to Live Site:
+##### Link to Live Site: [https://zelipha.github.io/delani_studio/](https://zelipha.github.io/delani_studio/)
 
 ## Support and contact details
 
