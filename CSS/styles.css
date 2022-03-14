@@ -113,7 +113,7 @@ body {
 .img_title7,
 .img_title8 {
   visibility: hidden;
-  border: 5px solid rgb(12, 12, 12);
+  border: 5px solid #fff;
   height: 170px;
   width: 200px;
   position: absolute;
