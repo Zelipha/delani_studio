@@ -63,6 +63,12 @@ body {
   padding-bottom: 25px;
 }
 
+.hide1,
+.hide2,
+.hide3 {
+  display: none;
+}
+
 .portfolio {
   text-align: center;
   margin-top: 5%;
