@@ -39,44 +39,4 @@ $(document).ready(function () {
     // $(".img_title1").css("visibility", "hidden");
     // });
   });
-  //   $(document).ready(function () {
-  //     $("#jim-img").mouseover(function () {
-  //       $("#description4").css("display", "block");
-  //     });
-  //     $("#jim-img").mouseout(function () {
-  //       $("#description4").css("display", "none");
-  //     });
-  //   });
-  //   $(document).ready(function () {
-  //     $("#elena-img").mouseover(function () {
-  //       $("#description5").css("display", "block");
-  //     });
-  //     $("#elena-img").mouseout(function () {
-  //       $("#description5").css("display", "none");
-  //     });
-  //   });
-  //   $(document).ready(function () {
-  //     $("#calc-img").mouseover(function () {
-  //       $("#description6").css("display", "block");
-  //     });
-  //     $("#calc-img").mouseout(function () {
-  //       $("#description6").css("display", "none");
-  //     });
-  //   });
-  //   $(document).ready(function () {
-  //     $("#burned-img").mouseover(function () {
-  //       $("#description7").css("display", "block");
-  //     });
-  //     $("#burned-img").mouseout(function () {
-  //       $("#description7").css("display", "none");
-  //     });
-  //   });
-  //   $(document).ready(function () {
-  //     $("#giraffe-img").mouseover(function () {
-  //       $("#description8").css("display", "block");
-  //     });
-  //     $("#giraffe-img").mouseout(function () {
-  //       $("#description8").css("display", "none");
-  //     });
-  //   });
 });
